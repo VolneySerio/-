@@ -22,7 +22,8 @@ O projeto foi feito para aprimorar as habilidades na cadeira de autoração mult
 
 ---
 ## 5. **Exportar em PDF**
-   - Exportar em PDF com espaços de questão. 
+   - Exportar em PDF com espaços de questão.
+     (Working!) 
 
 ---
 ## 6. **Gerar imagem pelo texto**
